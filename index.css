@@ -60,7 +60,6 @@ nav a:hover::after {
 }
 
 .hero {
-  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://i.imgur.com/YkU4e1R.jpeg') center/cover no-repeat;
   padding: 5rem 2rem;
   text-align: center;
   color: #fff;
